@@ -1,5 +1,6 @@
 To-Do JSON Microservice
 =========================
+Note: To run please run the microservice in a dedicated terminal prior to running the tester
 
 Overview
 --------
