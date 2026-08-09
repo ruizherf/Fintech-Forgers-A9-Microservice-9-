@@ -1,7 +1,6 @@
 To-Do JSON Microservice
 =========================
-Note: To run please run the microservice in a dedicated terminal prior to running the tester
-
+Note: To run please download all files, the app assumes the files exist. Also, run the microservice in a dedicated terminal prior to running the tester
 Overview
 --------
 This microservice handles to-do list functions for the client by storing tasks in a JSON file (todo_data.json) in lieu of a database. It uses text pipelines to communicate with the client.
